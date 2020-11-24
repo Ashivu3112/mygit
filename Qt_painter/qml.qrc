@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorSquare.qml</file>
+        <file>Top_drawer.qml</file>
+    </qresource>
+</RCC>
